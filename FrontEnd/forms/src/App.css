@@ -1,0 +1,52 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container_form{
+  display: inline-block;
+  width: 50%;
+}
+.btn_form {
+  background-color: #008CFF;
+  border: #008CFF;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  float: right;
+}
+.forms_view {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.text_area {
+  width: auto;
+  flex-grow: 1;
+}
+.text_area_input {
+  width: 100%;
+}
+.date {
+  width: auto;
+  height: 319px;
+  flex-grow: 1;
+}
+.date_input {
+margin-top: 50%;
+}
+.range {
+  width: auto;
+  height: 319px;
+  flex-grow: 1;
+}
+.range_input{
+margin-top: 50%;
+}
+.text_area_input_out{
+  width: 100%;
+}
