@@ -37,7 +37,7 @@
   flex-grow: 1;
 }
 .date_input {
-margin-top: 50%;
+margin-top: 100px;
 }
 .range {
   width: auto;
@@ -45,7 +45,7 @@ margin-top: 50%;
   flex-grow: 1;
 }
 .range_input{
-margin-top: 50%;
+margin-top: 100px;
 }
 .text_area_input_out{
   width: 100%;
